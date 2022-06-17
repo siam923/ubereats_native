@@ -25,5 +25,10 @@ export default StyleSheet.create({
   subtitle: {
     fontSize: 15,
     color: "grey",
+  },
+  menuTitle: {
+    marginTop: 20,
+    fontSize: 18,
+    letterSpacing: 0.7
   }
 });
